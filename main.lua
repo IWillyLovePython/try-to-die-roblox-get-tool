@@ -34,3 +34,4 @@ game:GetService("UserInputService").InputBegan:Connect(function(InputObject, Gam
         getTools()
     end
 end)
+--gig
